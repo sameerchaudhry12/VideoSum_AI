@@ -1,0 +1,13 @@
+gradio
+opencv-python
+numpy
+pandas
+librosa
+matplotlib
+moviepy
+imageio[ffmpeg]
+tensorflow
+mtcnn
+torch
+transformers
+tqdm
